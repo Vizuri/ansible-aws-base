@@ -1,0 +1,6 @@
+.git
+LICENSE
+README
+.DS_Store
+.gitignore
+.dockerignore
